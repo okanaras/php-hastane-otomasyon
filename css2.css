@@ -1,0 +1,80 @@
+/* HASTANE OTO */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.adsoyad {
+    position: relative;
+    width: 300px;
+    height: 20px;
+    left: 3%;
+    top: 40px;
+}
+
+.adsoyad h4 {
+    font-size: 35px;
+    position: relative;
+    float: left;
+    color: #292830;
+    opacity: 0.8;
+    text-shadow: 2px 1px #292830;
+}
+
+.orta_div {
+    position: absolute;
+    width: 45%;
+    height: 500px;
+    background: #e7e7e7;
+    top: 175px;
+    opacity: 0.8;
+}
+
+#randevu_div {
+    left: 3%;
+}
+
+#ailehekimi_div {
+    right: 3%;
+}
+
+#ailehekimi_div p {
+    position: relative;
+    color: #292830;
+    font-size: 30px;
+    text-align: center;
+    top: 100px;
+}
+
+#ailehekimi_div h3 {
+    text-align: center;
+    font-size: 28px;
+}
+
+
+.formlar input {
+    margin: 25px 15px 5px;
+    width: 96%;
+    padding: 17px;
+    cursor: pointer;
+}
+
+.formlar select {
+    margin: 15px 15px 5px;
+    width: 96%;
+    padding: 17px;
+    cursor: pointer;
+}
+
+.formlar button {
+    margin-top: 20px;
+    padding: 15px;
+    margin-left: 350px;
+    cursor: pointer;
+}
+
+/* 
+#btn-kaydet {
+    margin-top: 15px;
+
+} */
